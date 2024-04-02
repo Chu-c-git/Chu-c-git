@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Drew</h1>
-<h3 align="center">A passionate data analyst with machine-learning skills. Here are some of my personal projects, with you find something fun here!</h3>
+<h3 align="left">A passionate data analyst with machine-learning skills. Here are some of my personal projects, with you find something fun here!</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
