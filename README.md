@@ -1,8 +1,11 @@
 <h1 align="center">Hi 👋, I'm Drew</h1>
-<h3 align="left">A passionate data analyst with machine-learning skills. Here are some of my personal projects, with you find something fun here!</h3>
+<h3 align="center">A passionate data analyst with machine-learning skills. Here are some of my personal projects, with you find something fun here!</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="right">Connect with me:</h3>
+<p align="right">
+<a href="https://linkedin.com/in/chen wei chu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chen wei chu" height="30" width="40" /></a>
+<a href="https://kaggle.com/chu_tuic" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="chu_tuic" height="30" width="40" /></a>
+<a href="https://medium.com/chu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="chu" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
